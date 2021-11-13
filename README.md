@@ -4,7 +4,7 @@
 |SPECS| |
 |---|---|
 |CPU|Intel Core i5-8259U|
-|System Memory|16GB (Sk Hynix)|
+|System Memory|2x16GB (Sk Hynix)|
 |Display|Intel Iris Plus Graphics 655|
 |Audio Adapter|Realtek ALC235|
 |Storage|Samsung 970 EVO Plus|
